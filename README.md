@@ -24,7 +24,7 @@
 - **Role:** Product Design / Product Management / Full-stack Development
 - **Highlights:** 用户研究、UI/UX设计，交互设计、前端开发
 - **Built with:** Figma · Vue · JavaScript
-- **Repository:** [View Project]((https://github.com/avaluu/Neckflow-Adventure))
+- **Repository:** [View Project](https://github.com/avaluu/Neckflow-Adventure)
 
 
 <!--
