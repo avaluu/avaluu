@@ -14,6 +14,19 @@
 
 这里会记录我的学习、实践和一些有趣的产品想法。
 
+
+## ✨ Featured Projects
+
+### 01. Neckflow
+
+> 关爱肩颈健康，戴上耳机用头玩音游
+
+- **Role:** Product Design / Product Management / Full-stack Development
+- **Highlights:** 用户研究、UI/UX设计，交互设计、前端开发
+- **Built with:** Figma · Vue · JavaScript
+- **Repository:** [View Project]((https://github.com/avaluu/Neckflow-Adventure))
+
+
 <!--
 **avaluu/avaluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
