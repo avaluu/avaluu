@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+-- UI/UX设计，产品经理，全栈，产品运营，用户运营
+-- 探索好看的设计，舒服的用户体验
+-- 多邻国语言学习者，目前已打卡457天
+
 <!--
 **avaluu/avaluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
