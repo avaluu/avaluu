@@ -6,7 +6,7 @@
 * 🧩 从事 **产品经理、产品运营与用户运营** 相关工作
 * 💻 正在学习和实践 **全栈开发**，尝试亲手把想法变成产品
 * 🔍 对设计细节、用户需求和产品体验保持好奇
-* 🌍 多邻国语言学习者，已连续打卡 **457 天**
+* 🌍 多邻国语言学习者，已连续打卡 **458天**
 
 ### What I care about
 
@@ -24,7 +24,7 @@
 - **Role:** Product Design / Product Management / Full-stack Development
 - **Highlights:** 用户研究、UI/UX设计，交互设计、前端开发
 - **Built with:** Figma · Vue · JavaScript
-- **Repository:** [View Project](https://github.com/avaluu/Neckflow-Adventure)
+- **Repository:** [项目文档](https://github.com/avaluu/Neckflow-Adventure)
 
 
 <!--
